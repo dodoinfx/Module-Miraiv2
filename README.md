@@ -5,34 +5,34 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/MeewMeew/Module-Miraiv2/commits" target="_blank"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/MeewMeew/Module-Miraiv2.svg?label=commit&style=flat-square"></a>
+	<a href="https://github.com/dodoinfx/Module-Miraiv2/commits" target="_blank"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/dodoinfx/Module-Miraiv2.svg?label=commit&style=flat-square"></a>
 	<a href="https://github.com/MeewMeew/Module-Miraiv2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/MeewMeew/Module-Miraiv2"></a>
-	<a href="https://github.com/MeewMeew/Module-Miraiv2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/MeewMeew/Module-Miraiv2"></a>
+	<a href="https://github.com/dodoinfx/Module-Miraiv2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/dodoinfx/Module-Miraiv2"></a>
 </p>
 
-## ĐỌC KĨ README TRƯỚC KHI SỬ DỤNG TRÁNH LỖI KHÔNG MONG MUỐN !
+## READ THE README CAREFULLY BEFORE USING TO AVOID UNDERSTANDING ERRORS !
 
-# Module hỗ trợ cho source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
+# Support module for source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cảnh Báo
-- **Cấm chỉnh sửa credits.**
+# Warning
+- **Editing credits is prohibited.**
 
-# Vị Trí Lưu
+# Save Location
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
 - Module event: [modules/events](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/events)
 
-## Một số module khác
-- Nhấn vào [đây](https://github.com/MintDaL/Module-Mint).
+## Some more modules
+- Click [here](https://github.com/MintDaL/Module-Mint).
 
-# Hướng Dẫn Tạo APIKEY
-- Để sử dụng được một số lệnh cần apikey, cần tạo một apikey mới để có thể sử dụng lệnh.
-- Dưới đây là video hướng dẫn.
+# Guide to Create APIKEY
+- To use some commands that need apikey, need to create a new apikey to be able to use the command.
+- Here is a video tutorial.
 - Web login: [MeewMeew](https://mewdev.pro/site)
 
 [![Generator APIKEY](https://img.youtube.com/vi/HPiA_Pdtmcw/0.jpg)](https://youtu.be/HPiA_Pdtmcw)
 
-# Tác Giả
-- **MeewMeew** - [GitHub](https://github.com/MeewMeew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
+# Author
+- **DODOinfx** - [GitHub](https://github.com/dodoinfx) - [Facebook](https://www.facebook.com/notsopreety)
 
 # License
 
